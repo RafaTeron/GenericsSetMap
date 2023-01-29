@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Generics"/>
+	<classpathentry kind="src" path="GenericsDelimitados"/>
+	<classpathentry kind="src" path="Copy"/>
+	<classpathentry kind="src" path="EqualsHashCode"/>
+	<classpathentry kind="src" path="Set"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
