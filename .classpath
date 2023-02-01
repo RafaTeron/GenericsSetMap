@@ -12,5 +12,7 @@
 	<classpathentry kind="src" path="Set"/>
 	<classpathentry kind="src" path="Exercicio01"/>
 	<classpathentry kind="src" path="Exerxixio02"/>
+	<classpathentry kind="src" path="Exercicio03"/>
+	<classpathentry kind="src" path="Map"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
