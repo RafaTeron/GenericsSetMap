@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="Copy"/>
 	<classpathentry kind="src" path="EqualsHashCode"/>
 	<classpathentry kind="src" path="Set"/>
+	<classpathentry kind="src" path="Exercicio01"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
