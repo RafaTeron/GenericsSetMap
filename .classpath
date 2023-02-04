@@ -11,8 +11,9 @@
 	<classpathentry kind="src" path="EqualsHashCode"/>
 	<classpathentry kind="src" path="Set"/>
 	<classpathentry kind="src" path="Exercicio01"/>
-	<classpathentry kind="src" path="Exerxixio02"/>
+	<classpathentry kind="src" path="Exercicio02"/>
 	<classpathentry kind="src" path="Exercicio03"/>
 	<classpathentry kind="src" path="Map"/>
+	<classpathentry kind="src" path="Exercicio04"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
